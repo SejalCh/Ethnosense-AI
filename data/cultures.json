@@ -1,0 +1,127 @@
+[
+  {
+    "culture": "Kerala",
+    "overview": "Known as 'God’s Own Country', Kerala is famous for its backwaters, Ayurveda, classical dance, and rich traditions.",
+    "festivals": [
+      {
+        "name": "Onam",
+        "origin": "Commemorates King Mahabali, a mythical ruler believed to return during harvest season.",
+        "celebration": "Ten-day harvest festival with Sadya feast, Pookalam floral art, Vallamkali boat races, and traditional dances.",
+        "significance": "Symbol of unity, prosperity, and cultural identity for Malayalis."
+      }
+    ],
+    "food": ["Kerala Sadya", "Appam with stew", "Fish curry"],
+    "attire": "Mundu for men, Kasavu saree for women.",
+    "arts": [
+      {
+        "name": "Kathakali",
+        "history": "Originated in the 17th century, blending storytelling, dance, and elaborate makeup to narrate epics like the Mahabharata and Ramayana."
+      }
+    ],
+    "dos_donts": [
+      "Do eat with your right hand when served on banana leaves.",
+      "Do remove footwear before entering temples.",
+      "Don’t consume alcohol or non-vegetarian food near religious celebrations."
+    ]
+  },
+  {
+    "culture": "Punjab",
+    "overview": "Punjab, the land of five rivers, is known for its Sikh heritage, vibrant festivals, and agricultural traditions.",
+    "festivals": [
+      {
+        "name": "Baisakhi",
+        "origin": "Marks the harvest season and commemorates the formation of Khalsa by Guru Gobind Singh in 1699.",
+        "celebration": "Fairs, folk dances like Bhangra and Giddha, visits to gurudwaras, and Langar meals.",
+        "significance": "Blend of religious devotion and agrarian joy."
+      }
+    ],
+    "food": ["Makki di roti", "Sarson da saag", "Lassi"],
+    "attire": "Phulkari dupatta for women, kurta-pajama and turban for men.",
+    "arts": [
+      {
+        "name": "Phulkari embroidery",
+        "history": "Traditional Punjabi embroidery art, often passed down generations, symbolizing cultural pride."
+      }
+    ],
+    "dos_donts": [
+      "Do cover your head when entering a Gurudwara.",
+      "Do sit on the floor respectfully during Langar.",
+      "Don’t smoke, drink, or carry intoxicants near religious premises."
+    ]
+  },
+  {
+    "culture": "Tamil Nadu",
+    "overview": "A southern state renowned for its Dravidian culture, classical arts, ancient temples, and dynastic heritage.",
+    "festivals": [
+      {
+        "name": "Pongal",
+        "origin": "Harvest festival dedicated to the Sun God, celebrated since the Sangam era.",
+        "celebration": "Cooking sweet Pongal dish, decorating houses, honoring cattle, and community gatherings.",
+        "significance": "Marks gratitude to nature and agriculture."
+      }
+    ],
+    "food": ["Pongal", "Idli", "Dosa", "Chettinad chicken"],
+    "attire": "Women wear Kanchipuram silk sarees, men wear veshti.",
+    "arts": [
+      {
+        "name": "Bharatanatyam",
+        "history": "One of the oldest classical dance forms of India, dating back over 2000 years, performed in temples to express devotion to deities."
+      }
+    ],
+    "dos_donts": [
+      "Do respect temple rituals and dress modestly.",
+      "Do observe silence in temple premises.",
+      "Don’t photograph deities inside sanctums unless allowed."
+    ]
+  },
+  {
+    "culture": "Japan",
+    "overview": "Japan blends tradition and modernity, known for Shinto-Buddhist culture, tea ceremonies, and technological innovation.",
+    "festivals": [
+      {
+        "name": "Hanami",
+        "origin": "An ancient practice of flower viewing during the Nara period (8th century).",
+        "celebration": "People gather under cherry blossoms, enjoying food, drinks, and poetry.",
+        "significance": "Symbol of life's fleeting beauty and renewal."
+      }
+    ],
+    "food": ["Sushi", "Ramen", "Tempura"],
+    "attire": "Kimono and Yukata for traditional events.",
+    "arts": [
+      {
+        "name": "Kabuki Theatre",
+        "history": "Classical Japanese drama with singing, dancing, and elaborate makeup, dating back to the 17th century Edo period."
+      }
+    ],
+    "dos_donts": [
+      "Do bow as a greeting instead of shaking hands.",
+      "Do remove shoes before entering homes.",
+      "Don’t speak loudly in public transport."
+    ]
+  },
+  {
+    "culture": "Mexico",
+    "overview": "Mexico is known for its blend of indigenous traditions and Spanish influences, colorful festivals, and culinary heritage.",
+    "festivals": [
+      {
+        "name": "Día de los Muertos (Day of the Dead)",
+        "origin": "An Aztec tradition honoring ancestors, merged with Catholic All Saints’ Day after Spanish colonization.",
+        "celebration": "Altars with food, marigolds, and candles, parades, and family gatherings at cemeteries.",
+        "significance": "Celebrates life and remembrance of loved ones."
+      }
+    ],
+    "food": ["Tacos", "Tamales", "Mole"],
+    "attire": "Charro suits and embroidered dresses for festivals.",
+    "arts": [
+      {
+        "name": "Muralism",
+        "history": "20th-century Mexican art movement led by Diego Rivera, using public murals to depict history and social struggles."
+      }
+    ],
+    "dos_donts": [
+      "Do greet with a handshake or light hug.",
+      "Do try local street food with locals.",
+      "Don’t disrespect Día de los Muertos altars or offerings."
+    ]
+  }
+]
